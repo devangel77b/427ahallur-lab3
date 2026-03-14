@@ -1,0 +1,7 @@
+1. This is a review of "Experimental validation of conservation of energy" by Hallur, Tiboni, Zlotnikov, Sankritya, and Reznik. I recommend rejection.
+
+2. The hypothesis to be tested is not specific and just states in general that energy is conserved. The authors discuss measuring fore on a scale in newtons but then talk about energy, which does not follow logically. Methods are not given in any detail so they are not replicable.
+
+3. In results, no raw data are given, nor are there any indication of the number of replicates, the experimental error, or whether differences are statistically significant which is impossible to judge based on lack of information. The authors suggest some phenomena that might account for a 39% difference in energy, but conclude energy is conserved without actually checking if any of these mechanisms could feasibly work.
+
+4. There are only 4 references; 1 for a software package not mentioned anywhere else and 3 for class textbooks not mentioned or cited anywhere.
